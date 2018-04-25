@@ -1,6 +1,6 @@
 # Project-Data-Clean-Up
 
-DESCRIÇÃO PROJTEO:
+DESCRIÇÃO PROJETO:
 
 Pawdacity é a principal cadeia de pet shops no estado do Wyoming com 13 lojas. Este ano, Pawdacity gostaria de expandir sua atuação com a 14a loja. Seu gerente pediu para que você realizasse uma análise para recomendar a cidade para a abertura desta nova loja, baseando-se nas previsões de vendas anuais.
 
